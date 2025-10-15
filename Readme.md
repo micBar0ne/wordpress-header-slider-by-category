@@ -88,12 +88,6 @@ You can easily tweak:
 
 ---
 
-## 💻 Example
-
-![Header Slider Demo](https://user-images.githubusercontent.com/your-username/demo-header-slider.gif)
-
----
-
 ## 📜 License
 
 Licensed under the **GPL-2.0-or-later** license.
