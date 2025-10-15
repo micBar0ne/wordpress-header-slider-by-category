@@ -108,6 +108,6 @@ Built with ❤️ using:
 
 ---
 
-**Author:** Your Name  
+**Author:** Michele Barone
 **Version:** 1.0.1  
 **Repository:** [wordpress-header-slider-by-category](https://github.com/YOUR_USERNAME/wordpress-header-slider-by-category)
